@@ -1,0 +1,32 @@
+{
+  "name": "bulk-strings",
+  "version": "1.0.0",
+  "description": "A simple random bulk string generator. Useful for testing/benchmarking applications.",
+  "main": "index.js",
+  "bin": "./bin/cli.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ngagne/bulk-strings.git"
+  },
+  "keywords": [
+    "random",
+    "string",
+    "generate",
+    "random",
+    "test",
+    "data",
+    "alphanumeric"
+  ],
+  "author": "Nick Gagne <nick@appdev.rocks> (https://appdev.rocks)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngagne/bulk-strings/issues"
+  },
+  "homepage": "https://github.com/ngagne/bulk-strings#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
