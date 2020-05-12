@@ -26,7 +26,5 @@
     "url": "https://github.com/ngagne/bulk-strings/issues"
   },
   "homepage": "https://github.com/ngagne/bulk-strings#readme",
-  "dependencies": {
-    "minimist": "^1.2.0"
-  }
+  "dependencies": {}
 }
