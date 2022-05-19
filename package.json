@@ -1,6 +1,6 @@
 {
   "name": "bulk-strings",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple random bulk string generator. Useful for testing/benchmarking applications.",
   "main": "index.js",
   "bin": "./bin/cli.js",
@@ -25,6 +25,5 @@
   "bugs": {
     "url": "https://github.com/ngagne/bulk-strings/issues"
   },
-  "homepage": "https://github.com/ngagne/bulk-strings#readme",
-  "dependencies": {}
+  "homepage": "https://github.com/ngagne/bulk-strings#readme"
 }
